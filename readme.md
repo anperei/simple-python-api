@@ -36,5 +36,4 @@ This is a minimal Django project providing a simple REST API endpoint.
   {"message": "Hello, <name>!"}
   ```
 
-test
 
